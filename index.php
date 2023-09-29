@@ -163,6 +163,7 @@
  </div>
     </div>
  <?php }?>
+            </section>
  <section class="omni">
         <section class="footer">
 
